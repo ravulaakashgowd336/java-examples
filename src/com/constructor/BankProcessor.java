@@ -3,7 +3,7 @@ package com.constructor;
 public class BankProcessor {
 
 	public static void main(String[] args) {
-        BankAccount b = new BankAccount(949392,"Akash",5000);
+        BankAccount b = new BankAccount(99220041336,"Akash",5000);
         System.out.println("Account holder Name:"+b.getAccountNumber());
         System.out.println("Account Number:"+b.getAccountHolderName());
         System.out.println("balance: "+ b.getBalance());
