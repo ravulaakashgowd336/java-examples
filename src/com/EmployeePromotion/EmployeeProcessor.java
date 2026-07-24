@@ -4,7 +4,7 @@ public class EmployeeProcessor {
 
 	public static void main(String[] args) {
 
-		Employee obj=new Employee(201,"Bob","Developer",500000,3);
+		Employee obj=new Employee(101,"Akash","Junior developer",500000,3);
 		
 		System.out.println("Before Promotion:");
 		System.out.println();
